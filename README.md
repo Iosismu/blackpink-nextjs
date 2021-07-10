@@ -20,7 +20,7 @@
 ### 1. Next.js 앱 기능
 
 <p align='center'>
-  <img src='./images/page.png' width="600px" height="400px">
+  <img src='./images/page.PNG' width="600px" height="400px">
 </p>
 
 - 각 컴포넌트를 클릭시 해당 컨텐츠의 이미지가 나옵니다.
